@@ -1,0 +1,101 @@
+div.br-review-table,
+div.br-category-nav
+{
+	width: 650px;
+}
+
+div.br-sort-nav,
+div.br-pagination-nav
+{
+	background-color: #cfcfcf;
+	color: #000000;
+	overflow: hidden;
+}
+
+div.br-review-row
+{
+	background-color: #000000;
+	color: #ffffff;
+	overflow: hidden;
+}
+
+div.br-review-row-alt
+{
+	background-color: #222222;
+	color: #ffffff;
+}
+
+div.br-title
+{
+	float: left;
+	width: 240px;
+	display: block;
+	padding: 10px;
+}
+
+div.br-category,
+div.br-rating,
+div.br-date
+{
+	float: left;
+	width: 120px;
+	display: block;
+	padding: 10px 10px 10px 0;
+}
+
+div.br-review-table a
+{
+	text-decoration: none;
+}
+
+div.br-review-table a:hover
+{
+	text-decoration: underline;
+}
+
+div.br-review-row div.br-title a
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+div.br-review-row div.br-title a:hover
+{
+	text-decoration: underline;
+}
+
+div.br-pagination-left,
+div.br-pagination-middle
+{
+    float: left;
+    width: 195px;
+    display: block;
+    padding: 10px;
+}
+
+div.br-pagination-middle
+{
+    padding: 10px 12px 0 12px;
+    text-align: center;
+}
+
+div.br-pagination-middle div
+{
+    display: inline-block;
+    margin: 0 auto;
+}
+
+div.br-pagination-middle span,
+div.br-pagination-middle form
+{
+    float: left;
+}
+
+div.br-pagination-right
+{
+    text-align: right;
+    float: right;
+    width: 195px;
+    display: block;
+    padding: 10px;
+}
